@@ -28,10 +28,6 @@ WanderLust is an online platform that allows users to rent homes, hotels, and re
 - JWT Authentication (Secure Login)
 - Cloudinary (for image uploads)
 
-
-## 🚀 Getting Started
-Follow these steps to set up the project on your local machine.
-
 ## 🚀 Getting Started
 
 Follow these steps to set up the project on your local machine.
