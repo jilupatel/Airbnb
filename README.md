@@ -1,4 +1,4 @@
-# 📌 WanderLust - Rent Homes, Hotels & Resorts Online
+# 📌 WanderLust - In Rent Book Homes, Hotels & Resorts Online
 Your Ultimate Destination for Finding the Perfect Stay!
 
 <!-- Add a banner image if available -->
